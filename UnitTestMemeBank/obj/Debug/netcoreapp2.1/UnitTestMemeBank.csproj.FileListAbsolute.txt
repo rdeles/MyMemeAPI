@@ -1,0 +1,17 @@
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.csprojAssemblyReference.cache
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.csproj.CoreCompileInputs.cache
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.AssemblyInfoInputs.cache
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.AssemblyInfo.cs
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.deps.json
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.runtimeconfig.json
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.runtimeconfig.dev.json
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.dll
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\UnitTestMemeBank.pdb
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\MemeAPI.dll
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\bin\Debug\netcoreapp2.1\MemeAPI.pdb
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.csproj.CopyComplete
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.dll
+C:\Users\Robyn\source\repos\Phase2-API\UnitTestMemeBank\obj\Debug\netcoreapp2.1\UnitTestMemeBank.pdb
